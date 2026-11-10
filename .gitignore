@@ -1,0 +1,13 @@
+.gradle/
+build/
+*.iml
+.idea/
+local.properties
+secrets.properties
+*.part
+*.m3u
+*.m3u.gz
+*.bin
+tools/core-files.txt
+.superpowers/
+tools/sdd/
